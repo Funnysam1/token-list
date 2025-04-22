@@ -1,0 +1,15 @@
+{
+  "chainId": 101,
+  "address": "39cQGjJ88QqgZGxacLrCph16VTwwgBAzfxpbvuMrEphccumfW2Guh7rs9VTjoDfPEQ8w6gWEm5EXUJgagY4LWmo",
+  "symbol": "GOSLO",
+  "name": "Go Slo",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/<твой-гитхаб-юзернейм>/token-list/main/assets/mainnet/39cQGjJ88QqgZGxacLrCph16VTwwgBAzfxpbvuMrEphccumfW2Guh7rs9VTjoDfPEQ8w6gWEm5EXUJgagY4LWmo/logo.png",
+  "tags": ["go-slo", "community-token"],
+  "extensions": {
+    "website": "https://example.com",
+    "twitter": "https://twitter.com/example"
+  }
+}
+
+
